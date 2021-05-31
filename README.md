@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -77,4 +76,3 @@ React: Modules and CRA
 1. Understand what Create React App is and how to use it
 2. Use ES2015 modules to share code across files
 3. Compare default vs. non-default exports
->>>>>>> b6e33b75f6429dbd94e5e4f7dff5844b87ab6085
